@@ -1,0 +1,3 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Brandi Plowman,7/14/2018 10:56:50 PM,1245,5000,6.9,36,No,One loan,MogoLiquid,59567888,26230,3876.46,,,,,1123.54
+Allan Fraser,7/15/2018 6:03:14 AM,1244,8000,35.9,48,Yes,One loan,MogoLiquid,59504286,26230,2620.44,,,,,5379.56

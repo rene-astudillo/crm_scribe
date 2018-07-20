@@ -1,0 +1,9 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Gregory Robert Ayotte,5/30/2018 9:07:17 AM,618,5000,39.9,36,No,One loan,MogoLiquid,59325305,26230,3000,,,,,2000
+Justin Chadee,5/30/2018 7:50:00 AM,665,15000,22.9,48,No,One loan,MogoLiquid,59325012,26230,11375,,,,,3625
+Emilia Amy Principe,5/30/2018 7:34:33 AM,600,3500,45.9,36,No,Two loans,MogoZip,59307756,26218,936,MogoMini,59316511,26230,2274.75,289.25
+Michael Job Dalagan Loquellano,5/30/2018 4:49:27 AM,624,15000,15.9,60,No,One loan,MogoLiquid,59300843,26230,8522.2,,,,,6477.8
+Suzanne Buck,5/29/2018 6:04:01 PM,668,5000,45.9,48,No,One loan,MogoMini,59307212,26230,3500,,,,,1500
+Kathy Hitchcock,5/29/2018 5:50:20 PM,656,5000,45.9,48,No,One loan,MogoMini,59291056,26230,2500,,,,,2500
+Roberta Luciani,5/29/2018 3:18:54 PM,660,5000,24.9,36,No,One loan,MogoLiquid,59304806,26230,3735.15,,,,,1264.85
+Grace Cofie,5/30/2018 7:31:50 AM,674,5000,15.9,36,Yes,One loan,MogoLiquid,59282054,26230,3117.21,,,,,1882.79

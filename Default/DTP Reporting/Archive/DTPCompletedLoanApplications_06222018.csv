@@ -1,0 +1,11 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Jonathan Christopher Khan,6/22/2018 11:40:02 AM,794,15000,16.9,60,No,One loan,MogoLiquid,59390116,26230,12671.73,,,,,2328.27
+Randy Budd,6/22/2018 11:57:32 AM,959,15000,22.9,48,Yes,One loan,MogoLiquid,59422256,26230,7975,,,,,7025
+Alannah MacIntyre,6/22/2018 12:16:35 PM,960,8000,35.9,48,No,One loan,MogoLiquid,59426961,26230,2900,,,,,5100
+Ryan Lewington,6/21/2018 5:05:09 PM,948,15000,22.9,48,Yes,One loan,MogoLiquid,59408250,26230,8043.04,,,,,6956.96
+Maureen Lewis,6/21/2018 6:03:57 PM,952,15000,22.9,48,No,One loan,MogoLiquid,59423659,26230,3750,,,,,11250
+Denis Healey,6/21/2018 4:54:35 PM,937,10000,30.9,60,Yes,One loan,MogoLiquid,59390543,26230,3326.74,,,,,6673.26
+Susanna Anderson,6/21/2018 4:46:29 PM,950,8000,35.9,48,No,One loan,MogoLiquid,59390536,26230,3222.01,,,,,4777.99
+Priya Bakshi,6/22/2018 8:46:10 AM,941,5000,45.9,48,No,One loan,MogoMini,59389964,26230,1766.01,,,,,3233.99
+Karen Tanton,6/22/2018 11:35:56 AM,955,10000,30.9,60,Yes,One loan,MogoLiquid,59390522,26230,3103.11,,,,,6896.89
+Steven Hancher,6/22/2018 1:11:16 PM,964,15000,16.9,60,No,One loan,MogoLiquid,59410529,26230,10840.62,,,,,4159.38

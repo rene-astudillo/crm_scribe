@@ -1,0 +1,2 @@
+@echo off
+copy /Y "C:\Users\Public\Documents\Scribe\Collaborations\Default\DTP Reporting\DTPCompletedLoanApplicationsHeader.csv" "C:\Users\Public\Documents\Scribe\Collaborations\Default\DTP Reporting\DTPCompletedLoanApplications.csv"

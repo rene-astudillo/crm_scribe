@@ -1,0 +1,3 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Najiib Rabaa,4/11/2018 12:01:14 PM,91,10000,9.9,48,No,One loan,MogoLiquid,59114121,26230,4504.87,,,,,5495.13
+Michael Harris,4/11/2018 12:13:02 PM,86,5000,45.9,48,No,One loan,MogoMini,59113785,26230,2052.98,,,,,2947.02

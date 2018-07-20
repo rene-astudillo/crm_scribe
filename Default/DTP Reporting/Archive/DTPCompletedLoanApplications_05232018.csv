@@ -1,0 +1,7 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Natalie Mills,5/23/2018 12:10:22 PM,588,5000,39.9,36,No,One loan,MogoLiquid,59264714,26230,3238.45,,,,,1761.55
+Douglas Laursen,5/23/2018 1:03:00 PM,519,10000,24.9,60,No,One loan,MogoLiquid,59281710,26230,2609.57,,,,,7390.43
+Chulasiri Gamage,5/22/2018 5:05:39 PM,580,8000,39.9,48,Yes,One loan,MogoLiquid,59290050,26230,3511.47,,,,,4488.53
+Joanne Barber,5/23/2018 8:07:51 AM,583,10000,30.9,60,Yes,One loan,MogoLiquid,59272415,26230,3329.31,,,,,6670.69
+Slaven Grcic,5/23/2018 10:42:42 AM,587,10000,26.9,60,Yes,One loan,MogoLiquid,59281000,26230,1835.17,,,,,8164.83
+Stephane Dubord,5/23/2018 12:43:46 PM,590,15000,16.9,60,No,One loan,MogoLiquid,59276794,26230,11907.71,,,,,3092.29

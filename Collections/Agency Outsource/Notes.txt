@@ -1,0 +1,21 @@
+Agency Outsourcing Import Automation: 
+
+File execution Event Driven: Scribe System starts process step as soon as new file is detected on "AgencyDrop" folder.
+
+Pre job command: PreAgencyImport.bat, this file runs before execution of dts file. This command captured newest file from folder "AgencyDrop"and drop to "Import" folder then rename file to "978 closeout.csv" which file name and format must match as data source for dts file.
+
+DTS FILE:  AgencyImport.dts, this dts file update data based on source file "978 closeout.csv" to CRM as destination. If account active then it updates the Outsource status and more..otherwise does nothing.
+
+Post job command: PostAgencyImport.bat, this file runs right after DTS job complete. It moves file from folder "Import" to folder "AgencyArchive" with renaming by date.
+
+
+
+1. Agency drops the file into folder "AgencyDrop", note: File must be CSV format and same as sample file format.
+2. Scribe System detect the new file within this folder.
+3. Once new file is detected then scribe system execute batch file PreAgencyImport.bat.  Batch file PreAgencyImport.bat copy newest file from "AgencyDrop" to "Import" folder and rename file as "978 closeout.csv" This file name is very important that works as data source.
+4. DTS file will execute right after completion of step 3. 
+5. DTS File validate and Update data from "978 closeout.csv" to CRM
+6. Once DTS process completes then Scribe System execute the file "PostAgencyImport.bat"
+7. Post command script move file from Import folder to AgencyArchive folder and rename by date. eg. 978_close_out_02022016_144253.csv
+
+

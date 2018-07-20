@@ -1,0 +1,1 @@
+CALL `crm_stage`.`spCollectionsCureCredits`();

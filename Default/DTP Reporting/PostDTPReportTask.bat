@@ -1,0 +1,3 @@
+@ECHO off
+COPY /Y "C:\Users\Public\Documents\Scribe\Collaborations\Default\DTP Reporting\DTPCompletedLoanApplications.csv" "C:\Users\Public\Documents\Scribe\Collaborations\Default\DTP Reporting\Archive\DTPCompletedLoanApplications_%date:~-10,2%%date:~-7,2%%date:~-4,4%.csv"
+COPY /Y "C:\Users\Public\Documents\Scribe\Collaborations\Default\DTP Reporting\DTPCompletedLoanApplications.csv" "\\mogo.lan\Shared\Mogo-Shared\PTP Exports\Asset Reports\DTPCompletedLoanApplications_%date:~-10,2%%date:~-7,2%%date:~-4,4%.csv"

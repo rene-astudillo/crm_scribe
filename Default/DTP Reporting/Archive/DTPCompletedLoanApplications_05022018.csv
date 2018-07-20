@@ -1,0 +1,5 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Michael Andre Edwards,5/2/2018 1:53:08 PM,355,3500,45.9,36,No,Two loans,MogoMini,59154258,26230,1540.44,Flex Line of Credit,59176322,26227,557.05,1402.51
+Donata Clarizio-Fleming,5/1/2018 7:02:39 PM,329,5000,26.9,36,No,One loan,MogoLiquid,59195746,26230,3650,,,,,1350
+Sherry Weiler,5/2/2018 8:45:39 AM,335,8000,35.9,48,No,One loan,MogoLiquid,59178536,26230,6758.04,,,,,1241.96
+Holly Valentine Tocher,5/1/2018 7:03:40 PM,343,8000,35.9,48,Yes,One loan,MogoLiquid,59180057,26230,2825,,,,,5175

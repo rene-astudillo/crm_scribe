@@ -1,0 +1,1 @@
+TRUNCATE `crm_stage_dev`.`collections_balances_prod`;

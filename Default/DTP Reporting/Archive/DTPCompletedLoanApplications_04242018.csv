@@ -1,0 +1,5 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Robert Thake,4/23/2018 9:33:53 PM,221,8000,39.9,48,No,One loan,MogoLiquid,59122980,26230,3467.35,,,,,4532.65
+Kathy Paszkowski,4/24/2018 11:52:43 AM,163,5000,45.9,48,No,One loan,MogoLiquid,59113171,26230,3904.9,,,,,1095.1
+Nicholas Fatica,4/24/2018 1:31:46 PM,246,5000,45.9,48,No,One loan,Flex Line of Credit,59157710,26227,500,,,,,4500
+Antonio Castrillo,4/24/2018 1:32:40 PM,243,5000,39.9,36,Yes,One loan,MogoLiquid,59125464,26230,4038.21,,,,,961.79

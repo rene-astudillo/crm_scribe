@@ -1,0 +1,10 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+Mike Zampini,7/4/2018 7:53:41 AM,1097,15000,16.9,60,No,One loan,MogoLiquid,59470111,26230,10375.95,,,,,4624.05
+Debbie Gordon,7/4/2018 12:40:17 PM,1061,5000,30.9,24,No,One loan,MogoLiquid,59453845,26230,2565.03,,,,,2434.97
+Elizabeth Gruber,7/4/2018 12:40:01 PM,1104,5000,22.9,24,No,One loan,MogoLiquid,59490265,26230,1700,,,,,3300
+Natasha Valliere,7/4/2018 12:54:23 PM,1102,3500,45.9,36,Yes,One loan,MogoLiquid,59428472,26227,1040.27,,,,,2459.73
+Lucas William Sten Hill,7/4/2018 8:15:30 AM,1096,10000,16.9,60,No,One loan,MogoLiquid,59489915,26230,500,,,,,9500
+Tania Hamilton,7/4/2018 9:18:04 AM,1082,5000,45.9,48,No,One loan,MogoMini,59425270,26230,3624.76,,,,,1375.24
+Isabel Rivet,7/3/2018 7:17:04 PM,1090,5000,45.9,48,No,One loan,MogoMini,59470453,26230,3463.39,,,,,1536.61
+Jaspal Saini,7/3/2018 5:32:59 PM,1093,15000,22.9,48,Yes,One loan,MogoLiquid,59472453,26230,7390.08,,,,,7609.92
+Seema Mann,7/3/2018 6:12:59 PM,1095,15000,16.9,60,No,One loan,MogoLiquid,59438729,26230,9792.79,,,,,5207.21

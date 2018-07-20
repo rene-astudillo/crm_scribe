@@ -1,0 +1,2 @@
+@echo off
+copy /Y "C:\Users\Public\Documents\Scribe\Collaborations\Default\Crypto Funding Report\CryptoFundingReportFileHeader.csv" "C:\Users\Public\Documents\Scribe\Collaborations\Default\Crypto Funding Report\CryptoFundingReportFile.csv"

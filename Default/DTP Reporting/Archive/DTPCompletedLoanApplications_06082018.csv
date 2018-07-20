@@ -1,0 +1,3 @@
+MemberName,ApplicationCompletedOn,AssetLoanID,LoanAmountAdvanced,APR,TermOfLoan,LoanProtection,DirectionToPay,LoanProduct1,TDCLoanNumber1,TDCMerchant1,AmountToPayOff1,LoanProduct2,TDCLoanNumber2,TDCMerchant2,AmountToPayOff2,TotalFundedAmount
+John Giannantonio,6/8/2018 5:29:31 AM,291,10000,22.9,48,No,One loan,MogoLiquid,59325542,26230,5928.15,,,,,4071.85
+Timothy McKone,6/8/2018 10:38:53 AM,797,5000,45.9,48,Yes,One loan,MogoMini,59373167,26230,3475,,,,,1525

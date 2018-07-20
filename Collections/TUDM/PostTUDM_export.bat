@@ -1,0 +1,1 @@
+powershell -Command "(gc CustomerFile.txt) -replace ',', '' | Out-File -encoding ASCII TU_ORD4378DM_Input_YYYYMMDD.txt"
